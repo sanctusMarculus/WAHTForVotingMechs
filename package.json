@@ -1,0 +1,22 @@
+{
+  "name": "wahtforvotingmechs",
+  "version": "1.0.0",
+  "description": " a Voting Power System based on the concept of Weighted Average Holding Time (WAHT). The system dynamically calculates a user’s voting power ",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanctusMarculus/WAHTForVotingMechs.git"
+  },
+  "author": "sanctusMarculus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanctusMarculus/WAHTForVotingMechs/issues"
+  },
+  "homepage": "https://github.com/sanctusMarculus/WAHTForVotingMechs#readme"
+}
